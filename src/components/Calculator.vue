@@ -1,6 +1,6 @@
 <template>
   <v-container style="max-width: 400px; text-align: -webkit-center; margin-top: 150px;">
-   XRT-CALCULATORr
+   XRT-CALCULATOR
     <v-row>
       <v-col>
             <v-col md="10">      
